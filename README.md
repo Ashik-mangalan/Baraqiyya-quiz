@@ -1,6 +1,6 @@
 # Al'Fana Wal'Baqa Quiz
 
-**Live site:** https://ashik-mangalan.github.io/fest-quiz/
+**Live site:** https://ashik-mangalan.github.io/Baraqiyya-quiz/
 
 Timed quiz by Team Baraqiyya for Aslami Fest 2K26 (IBDA Exhibition, Daruswalah Islamic Academy, Karamoola, Mukkam).
 
